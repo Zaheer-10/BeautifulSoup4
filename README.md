@@ -60,7 +60,10 @@ Some frequently asked questions about this project are:
 - Q: How can I scrape dynamic web pages that use JavaScript?
 - A: You can use Selenium or other tools that can render JavaScript and interact with web elements.
 
+  # BS4 cheatsheet
+  ![alt text](https://github.com/Zaheer-10/BeautifulSoup4/blob/main/Images/bs4cheatsheet.png?raw=true)
+  
 
-# Link to My Blog: 
+## Link to My Blog: 
 `https://soulofmercara10.medium.com/web-scraping-with-beautiful-soup-894f02e7d3d7`
 
