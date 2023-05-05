@@ -2,7 +2,6 @@
 ![alt text](https://github.com/Zaheer-10/Code_Red/blob/main/Images/BS%24.jpg?raw=true)
 BeautifulSoup is a Python library for pulling data out of HTML and XML files. It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
 
-# Project Title
 This project is a Python script that uses BeautifulSoup4 to scrape and parse web pages. It can extract data from HTML and XML documents .So I have used IPL_Auction 2023 ,flipkart product page  and Bangalore Hotel Booking  to extract the tabel , reviews etc.
 
 # Installation/Prerequisites
@@ -62,5 +61,6 @@ Some frequently asked questions about this project are:
 - A: You can use Selenium or other tools that can render JavaScript and interact with web elements.
 
 
-Link to My Blog: https://soulofmercara10.medium.com/web-scraping-with-beautiful-soup-894f02e7d3d7
+# Link to My Blog: 
+`https://soulofmercara10.medium.com/web-scraping-with-beautiful-soup-894f02e7d3d7`
 
