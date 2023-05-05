@@ -26,20 +26,6 @@ https://www.dataquest.io/blog/web-scraping-tutorial-python/
 
 https://www.edureka.co/blog/web-scraping-with-python/
 
-# Examples
-Here are some examples of how to use this script:
-
-- To scrape the title and summary of the latest news articles from CNN, run:
-
-`python scraper.py https://www.cnn.com/`
-
-- To scrape the names and prices of the best-selling books from Amazon, run:
-
-`python scraper.py https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/`
-
-- To scrape the lyrics of a song from Genius, run:
-
-`python scraper.py https://genius.com/Lil-nas-x-montero-call-me-by-your-name-lyrics`
 
 # FAQ
 Some frequently asked questions about this project are:
@@ -60,10 +46,9 @@ Some frequently asked questions about this project are:
 - Q: How can I scrape dynamic web pages that use JavaScript?
 - A: You can use Selenium or other tools that can render JavaScript and interact with web elements.
 
-  # BS4 cheatsheet
+# BS4 cheatsheet
   ![alt text](https://github.com/Zaheer-10/BeautifulSoup4/blob/main/Images/bs4cheatsheet.png?raw=true)
   
-
 ## Link to My Blog: 
 `https://soulofmercara10.medium.com/web-scraping-with-beautiful-soup-894f02e7d3d7`
 
