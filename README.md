@@ -50,5 +50,5 @@ Some frequently asked questions about this project are:
   ![alt text](https://github.com/Zaheer-10/BeautifulSoup4/blob/main/Images/bs4cheatsheet.png?raw=true)
   
 ## Link to My Blog: 
-`https://soulofmercara10.medium.com/web-scraping-with-beautiful-soup-894f02e7d3d7`
+[CLick Here](https://soulofmercara10.medium.com/web-scraping-with-beautiful-soup-894f02e7d3d7)
 
